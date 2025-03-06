@@ -38,7 +38,7 @@ MarqueeFlow is a sleek, responsive portfolio front page with **SCSS styling, mar
    ```
 
 ## 🔗 Live Preview
-[](https://github.com/OmkarYadav1089/MarqueeFlow.git)
+[Live Preview](https://github.com/OmkarYadav1089/MarqueeFlow.git)
 
 For any suggestions, feel free to connect! 🚀
 
